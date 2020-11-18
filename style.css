@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+#app {
+    height: 800px;
+    background-color: chocolate;
+    width: 100%
+}
+
+h1 {
+    font-size: 40px;
+    font-family: inherit;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: darkorange;
+    width: 70px;
+    margin: auto;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    transition: transform.2s;
+
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#games {
+    height: 800px;
+    background-color: chocolate;
+    width: 100%
+}
